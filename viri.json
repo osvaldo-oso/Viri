@@ -1,0 +1,19 @@
+{
+   "Hotel": [
+      {
+         "residentFirstName": "oso",
+         "residentLastName": "Mamita",
+         "room": 5
+      },
+      {
+         "residentFirstName": "viri",
+         "residentLastName": "Amsiedad",
+         "room": 8
+      },
+      {
+         "residentFirstName": "fab",
+         "residentLastName": "Mamita",
+         "room": 1
+      }
+   ]
+}
